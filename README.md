@@ -1,2 +1,2 @@
-# C-Primer
+# C++ Primer
 C++ code exercise 
